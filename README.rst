@@ -3,7 +3,7 @@ rotating-free-proxies
 Avoid being banned by webpages when you crawl them. This is an extension to the amazing scrapy-rotating-proxies_ library. The main target of this library is to get proxies dynamically when the spider is running. This library automatically fetches freely available lists of proxies from free-proxy-list.net_.
 
 
-.. _scrapy-rotating-proxies: https://pypi.python.org/pypi/rotating-free-proxies
+.. _scrapy-rotating-proxies: https://pypi.python.org/pypi/scrapy-rotating-proxies
 .. _free-proxy-list.net: https://free-proxy-list.net/
 
 
